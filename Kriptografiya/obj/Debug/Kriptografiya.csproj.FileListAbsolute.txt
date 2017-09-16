@@ -1,6 +1,0 @@
-c:\users\dobro\documents\visual studio 2017\Projects\Kriptografiya\Kriptografiya\obj\Debug\Kriptografiya.csprojResolveAssemblyReference.cache
-c:\users\dobro\documents\visual studio 2017\Projects\Kriptografiya\Kriptografiya\bin\Debug\Kriptografiya.exe.config
-c:\users\dobro\documents\visual studio 2017\Projects\Kriptografiya\Kriptografiya\bin\Debug\Kriptografiya.exe
-c:\users\dobro\documents\visual studio 2017\Projects\Kriptografiya\Kriptografiya\bin\Debug\Kriptografiya.pdb
-c:\users\dobro\documents\visual studio 2017\Projects\Kriptografiya\Kriptografiya\obj\Debug\Kriptografiya.exe
-c:\users\dobro\documents\visual studio 2017\Projects\Kriptografiya\Kriptografiya\obj\Debug\Kriptografiya.pdb
