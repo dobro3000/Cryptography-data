@@ -1,0 +1,64 @@
+c:\users\dobro\documents\visual studio 2017\Projects\Kriptografiya\Criptograf\bin\Debug\Criptograf.exe.config
+c:\users\dobro\documents\visual studio 2017\Projects\Kriptografiya\Criptograf\bin\Debug\Criptograf.exe
+c:\users\dobro\documents\visual studio 2017\Projects\Kriptografiya\Criptograf\bin\Debug\Criptograf.pdb
+c:\users\dobro\documents\visual studio 2017\Projects\Kriptografiya\Criptograf\obj\Debug\Criptograf.csprojResolveAssemblyReference.cache
+c:\users\dobro\documents\visual studio 2017\Projects\Kriptografiya\Criptograf\obj\Debug\MainWindow.g.cs
+c:\users\dobro\documents\visual studio 2017\Projects\Kriptografiya\Criptograf\obj\Debug\App.g.cs
+c:\users\dobro\documents\visual studio 2017\Projects\Kriptografiya\Criptograf\obj\Debug\Criptograf_MarkupCompile.cache
+c:\users\dobro\documents\visual studio 2017\Projects\Kriptografiya\Criptograf\obj\Debug\Criptograf_MarkupCompile.lref
+c:\users\dobro\documents\visual studio 2017\Projects\Kriptografiya\Criptograf\obj\Debug\MainWindow.baml
+c:\users\dobro\documents\visual studio 2017\Projects\Kriptografiya\Criptograf\obj\Debug\Criptograf.g.resources
+c:\users\dobro\documents\visual studio 2017\Projects\Kriptografiya\Criptograf\obj\Debug\Criptograf.Properties.Resources.resources
+c:\users\dobro\documents\visual studio 2017\Projects\Kriptografiya\Criptograf\obj\Debug\Criptograf.csproj.GenerateResource.Cache
+c:\users\dobro\documents\visual studio 2017\Projects\Kriptografiya\Criptograf\obj\Debug\Criptograf.exe
+c:\users\dobro\documents\visual studio 2017\Projects\Kriptografiya\Criptograf\obj\Debug\Criptograf.pdb
+c:\users\dobro\documents\visual studio 2017\Projects\Kriptografiya\Criptograf\bin\Debug\LibraryWithBaseCripts.dll
+c:\users\dobro\documents\visual studio 2017\Projects\Kriptografiya\Criptograf\bin\Debug\LibraryWithBaseCripts.pdb
+C:\Users\Dobro\Desktop\Kriptografiya(старое)\Criptograf\bin\Debug\Criptograf.exe.config
+C:\Users\Dobro\Desktop\Kriptografiya(старое)\Criptograf\bin\Debug\Criptograf.exe
+C:\Users\Dobro\Desktop\Kriptografiya(старое)\Criptograf\bin\Debug\Criptograf.pdb
+C:\Users\Dobro\Desktop\Kriptografiya(старое)\Criptograf\bin\Debug\LibraryWithBaseCripts.dll
+C:\Users\Dobro\Desktop\Kriptografiya(старое)\Criptograf\bin\Debug\LibraryWithBaseCripts.pdb
+C:\Users\Dobro\Desktop\Kriptografiya(старое)\Criptograf\obj\Debug\Criptograf.csprojResolveAssemblyReference.cache
+C:\Users\Dobro\Desktop\Kriptografiya(старое)\Criptograf\obj\Debug\MainWindow.g.cs
+C:\Users\Dobro\Desktop\Kriptografiya(старое)\Criptograf\obj\Debug\App.g.cs
+C:\Users\Dobro\Desktop\Kriptografiya(старое)\Criptograf\obj\Debug\Criptograf_MarkupCompile.cache
+C:\Users\Dobro\Desktop\Kriptografiya(старое)\Criptograf\obj\Debug\Criptograf_MarkupCompile.lref
+C:\Users\Dobro\Desktop\Kriptografiya(старое)\Criptograf\obj\Debug\MainWindow.baml
+C:\Users\Dobro\Desktop\Kriptografiya(старое)\Criptograf\obj\Debug\Criptograf.g.resources
+C:\Users\Dobro\Desktop\Kriptografiya(старое)\Criptograf\obj\Debug\Criptograf.Properties.Resources.resources
+C:\Users\Dobro\Desktop\Kriptografiya(старое)\Criptograf\obj\Debug\Criptograf.csproj.GenerateResource.Cache
+C:\Users\Dobro\Desktop\Kriptografiya(старое)\Criptograf\obj\Debug\Criptograf.exe
+C:\Users\Dobro\Desktop\Kriptografiya(старое)\Criptograf\obj\Debug\Criptograf.pdb
+C:\Users\Dobro\Desktop\Kriptografiyayjdjt\Criptograf\bin\Debug\Criptograf.exe.config
+C:\Users\Dobro\Desktop\Kriptografiyayjdjt\Criptograf\bin\Debug\Criptograf.exe
+C:\Users\Dobro\Desktop\Kriptografiyayjdjt\Criptograf\bin\Debug\Criptograf.pdb
+C:\Users\Dobro\Desktop\Kriptografiyayjdjt\Criptograf\bin\Debug\LibraryWithBaseCripts.dll
+C:\Users\Dobro\Desktop\Kriptografiyayjdjt\Criptograf\bin\Debug\LibraryWithBaseCripts.pdb
+C:\Users\Dobro\Desktop\Kriptografiyayjdjt\Criptograf\obj\Debug\Criptograf.csprojResolveAssemblyReference.cache
+C:\Users\Dobro\Desktop\Kriptografiyayjdjt\Criptograf\obj\Debug\MainWindow.g.cs
+C:\Users\Dobro\Desktop\Kriptografiyayjdjt\Criptograf\obj\Debug\App.g.cs
+C:\Users\Dobro\Desktop\Kriptografiyayjdjt\Criptograf\obj\Debug\Criptograf_MarkupCompile.cache
+C:\Users\Dobro\Desktop\Kriptografiyayjdjt\Criptograf\obj\Debug\Criptograf_MarkupCompile.lref
+C:\Users\Dobro\Desktop\Kriptografiyayjdjt\Criptograf\obj\Debug\MainWindow.baml
+C:\Users\Dobro\Desktop\Kriptografiyayjdjt\Criptograf\obj\Debug\Criptograf.g.resources
+C:\Users\Dobro\Desktop\Kriptografiyayjdjt\Criptograf\obj\Debug\Criptograf.Properties.Resources.resources
+C:\Users\Dobro\Desktop\Kriptografiyayjdjt\Criptograf\obj\Debug\Criptograf.csproj.GenerateResource.Cache
+C:\Users\Dobro\Desktop\Kriptografiyayjdjt\Criptograf\obj\Debug\Criptograf.exe
+C:\Users\Dobro\Desktop\Kriptografiyayjdjt\Criptograf\obj\Debug\Criptograf.pdb
+F:\4 курс\Kriptografiya\Criptograf\bin\Debug\Criptograf.exe.config
+F:\4 курс\Kriptografiya\Criptograf\obj\Debug\Criptograf.exe
+F:\4 курс\Kriptografiya\Criptograf\obj\Debug\Criptograf.pdb
+F:\4 курс\Kriptografiya\Criptograf\bin\Debug\Criptograf.exe
+F:\4 курс\Kriptografiya\Criptograf\bin\Debug\Criptograf.pdb
+F:\4 курс\Kriptografiya\Criptograf\bin\Debug\LibraryWithBaseCripts.dll
+F:\4 курс\Kriptografiya\Criptograf\bin\Debug\LibraryWithBaseCripts.pdb
+F:\4 курс\Kriptografiya\Criptograf\obj\Debug\Criptograf.csprojResolveAssemblyReference.cache
+F:\4 курс\Kriptografiya\Criptograf\obj\Debug\MainWindow.g.cs
+F:\4 курс\Kriptografiya\Criptograf\obj\Debug\App.g.cs
+F:\4 курс\Kriptografiya\Criptograf\obj\Debug\Criptograf_MarkupCompile.cache
+F:\4 курс\Kriptografiya\Criptograf\obj\Debug\Criptograf_MarkupCompile.lref
+F:\4 курс\Kriptografiya\Criptograf\obj\Debug\MainWindow.baml
+F:\4 курс\Kriptografiya\Criptograf\obj\Debug\Criptograf.g.resources
+F:\4 курс\Kriptografiya\Criptograf\obj\Debug\Criptograf.Properties.Resources.resources
+F:\4 курс\Kriptografiya\Criptograf\obj\Debug\Criptograf.csproj.GenerateResource.Cache
