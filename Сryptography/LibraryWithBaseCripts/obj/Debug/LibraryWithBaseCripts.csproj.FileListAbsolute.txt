@@ -18,3 +18,8 @@ F:\4 курс\Kriptografiya\LibraryWithBaseCripts\bin\Debug\LibraryWithBaseCript
 F:\4 курс\Kriptografiya\LibraryWithBaseCripts\obj\Debug\LibraryWithBaseCripts.csprojResolveAssemblyReference.cache
 F:\4 курс\Kriptografiya\LibraryWithBaseCripts\obj\Debug\LibraryWithBaseCripts.dll
 F:\4 курс\Kriptografiya\LibraryWithBaseCripts\obj\Debug\LibraryWithBaseCripts.pdb
+F:\4 курс\Сryptography\LibraryWithBaseCripts\obj\Debug\LibraryWithBaseCripts.csprojResolveAssemblyReference.cache
+F:\4 курс\Сryptography\LibraryWithBaseCripts\obj\Debug\LibraryWithBaseCripts.dll
+F:\4 курс\Сryptography\LibraryWithBaseCripts\obj\Debug\LibraryWithBaseCripts.pdb
+F:\4 курс\Сryptography\LibraryWithBaseCripts\bin\Debug\LibraryWithBaseCripts.dll
+F:\4 курс\Сryptography\LibraryWithBaseCripts\bin\Debug\LibraryWithBaseCripts.pdb

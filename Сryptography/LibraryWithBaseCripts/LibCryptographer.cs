@@ -172,7 +172,7 @@ namespace LibraryWithBaseCripts
                     if (count == word.Length)
                         count = 0;
                     //newMas[i] = (byte)(buff[i] - (byte)Math.Abs((byte)word[count++] % 100));
-                    newMas[i] = (byte)((byte)(buff[i] - (byte)word[count++]) % 256);
+                    newMas[i] = (byte)((byte)(256 + buff[i] - (byte)word[count++]) % 256);
                 }
             }
 
@@ -188,21 +188,70 @@ namespace LibraryWithBaseCripts
             stream.Read(buff, 0, buff.Length);
             stream.Close();
 
-            string value = SByte.MinValue.ToString("X");
-            byte number = Convert.ToByte(value, 2);
+            int count = 0;
 
+            List<long> kye = new List<long>();
+            List<long> bytes = new List<long>();
             byte[] newMas = new byte[buff.Length];
-            byte b = 0;
-            for (int i =0; i < buff.Length; i++)
+            for (int i = 0; i < buff.Length; i++)
             {
-                b = (byte)((buff[1] + word[1]) % 2);
-                MessageBox.Show(Convert.ToString(b));
+                List<long> temp = new List<long>();
+                bytes = GetBinaryCode(buff[i]);
+                kye = GetBinaryCode((byte)word[count++]);
+                for(int j = 0; j < bytes.Count; j++)
+                {
+                   temp.Add((bytes[j] + kye[j])%2);
+                }
+                if(count > 3)
+                {
+                    count = 0;
+                }
+                newMas[i] = GetCharCode(temp);
+                temp.Clear();
             }
 
             File.WriteAllBytes(filename, newMas);
             MessageBox.Show("It's all! Check IT!");
         }
 
-        
+        private List<long> GetBinaryCode(byte b)
+        {
+            int ost = b;
+            Stack<long> newB = new Stack<long>();
+           // List<long> newB = new List<long>();
+            List<long> getB = new List<long>();
+            while (ost > 1)
+            {
+                long t = ost % 2;
+                newB.Push(t);
+                ost = (int)(ost / 2);
+            }
+
+            newB.Push(ost);
+
+            while(newB.Count != 64)
+            {
+                newB.Push(0);
+            }
+
+                foreach (long l in newB)
+                getB.Add(l);
+
+            return getB;
+        }
+
+        private byte GetCharCode(List<long> b)
+        {
+            byte sum = 0;
+            int count = 0;
+            for(int i = b.Count - 1; i >= 0; i--)
+            {
+                sum += (byte)(b[i] * Math.Pow(2,count++));
+            }
+            return sum;
+        }
+
+
+
     }
 }
